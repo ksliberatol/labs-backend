@@ -11,7 +11,8 @@ public class LabsApplicationTests{
 
 	@Test
 	public void contextLoads( ){
-		LabsApplication.main( new String[]{ } );
+		LabsApplication.main( new String[]{ } )
+		
 	}
 
 }
